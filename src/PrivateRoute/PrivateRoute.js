@@ -6,7 +6,7 @@ import Login from '../Login/Login';
 const PrivateRoute = () => {
     const [user] = useContext(AdminContext);
     console.log(user, 'ddd')
-    return  user?.email==='mdmehedyh55@gmail.com' ? <Outlet/> : <Login/>
+    return  user?.email==='mahadihasanmim72@gmail.com' ? <Outlet/> : <Login/>
 };
 
 export default PrivateRoute;

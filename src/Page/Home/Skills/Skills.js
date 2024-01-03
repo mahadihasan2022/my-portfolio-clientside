@@ -12,7 +12,7 @@ const Skills = () => {
             element.style.animationDuration = '5s';
         }
     }
-    const alsoSkills = ['API', 'Github', 'React Redux', 'React Form', 'Axios', 'Animate.css', 'AOS', 'SASS', 'Styled-components', 'Font Awesome']
+    const alsoSkills = ['API', 'Github', 'React Form', 'Axios', 'Animate.css', 'AOS', 'SASS', 'Styled-components', 'Font Awesome']
     return (
         <div
             id="main-skills-div"

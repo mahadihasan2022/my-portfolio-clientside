@@ -28,7 +28,7 @@ const Contact = () => {
                     <div className="border-global-style p-2 m-2 mt-4">
                         <img data-aos="zoom-in-up" data-aos-duration="1000" className="w-100" src={phoneSvg} alt="" />
                         <h3 data-aos="fade-up" data-aos-duration="2000" className="text-info mt-3">Mobile Number</h3>
-                        <p data-aos="fade-up" data-aos-duration="3000">+880 1409 117 333</p>
+                        <p data-aos="fade-up" data-aos-duration="3000">+880 1839 581 985</p>
                     </div>
                 </div>
                 <div
@@ -36,7 +36,7 @@ const Contact = () => {
                     <div className="border-global-style p-2 m-2 mt-4">
                         <img data-aos="zoom-in-up" data-aos-duration="1000" className="w-100" src={emailSvg} alt="" />
                         <h3 data-aos="fade-up" data-aos-duration="2000" className="text-info mt-3">Email Address</h3>
-                        <p data-aos="fade-up" data-aos-duration="3000">mahadihasanmim1999@gmail.com</p>
+                        <p data-aos="fade-up" data-aos-duration="3000">mahadihasanmim72@gmail.com</p>
                     </div>
                 </div>
                 <div

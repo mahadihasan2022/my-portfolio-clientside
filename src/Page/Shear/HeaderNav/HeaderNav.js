@@ -29,8 +29,8 @@ const HeaderNav = () => {
     }
 
     return (
-        <Navbar expand="lg">
-            <Container>
+        <Navbar expand="lg" >
+            <Container >
                 <Navbar.Brand
                     href="/"
                     className={`btn text-info header-website-font headerNav`}

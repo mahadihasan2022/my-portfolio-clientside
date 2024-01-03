@@ -25,7 +25,7 @@ const Education = () => {
 
                         <h5 data-aos="fade-up" data-aos-duration="2500" className="mt-3"><i>Passed by 2018</i></h5>
                         <h6 data-aos="fade-up" data-aos-duration="3000">Science Education</h6>
-                        <p data-aos="fade-up" data-aos-duration="1000"><small>milestone College, Uttara, Dhaka 1230</small></p>
+                        <p data-aos="fade-up" data-aos-duration="1000"><small>Milestone College, Uttara, Dhaka 1230</small></p>
 
                         <h3 data-aos="fade-up" data-aos-duration="1000" className="text-info mt-5">Languages</h3>
                         <h5 data-aos="fade-up" data-aos-duration="1500">Bengali - <small><i>Native</i></small></h5>
